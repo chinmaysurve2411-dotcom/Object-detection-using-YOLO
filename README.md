@@ -24,6 +24,12 @@ Real-time object detection using YOLOv8 and OpenCV in Python.
   - fast and lightweight
   - favourite choice of programmers
   - automatically downloaded by Ultralytics
+
+  # File Structure
+  - Readme.md
+  - main.py
+  - requirments.txt
+    
  
   
 
