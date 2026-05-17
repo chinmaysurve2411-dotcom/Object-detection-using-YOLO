@@ -1,0 +1,4 @@
+1. Open CV (version: CV2)
+2. Ultralytis 
+3. YOLO (You Only Look Once)
+4. Model used = yolov8n.pt
